@@ -1,3 +1,10 @@
 body {
     font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+.logo-viajes {
+    width: 50px;
+}
+.carousel-item img {
+    max-height: 100vh;
 }
