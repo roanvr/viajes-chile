@@ -8,3 +8,6 @@ body {
 .carousel-item img {
     max-height: 100vh;
 }
+.card img {
+    max-height: 150px;
+}
