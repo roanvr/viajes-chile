@@ -1,3 +1,8 @@
 $(document).ready(function(){
-    $(".btn").alert("Thank you for contacting with us. We'll be shortly in touch")
+    $ (".destacados").click(function(){
+        $(this).css("color","red")
+    })
+    $ (".quien").click(function(){
+        $(".quienes").toggle()
+    })
 })
